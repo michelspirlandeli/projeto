@@ -1,4 +1,6 @@
 Minha primeira alteração online.
 Minha primeira alteração local.
-Mais uma linha
+
 Minha alteração no teste
+Outra linha!
+Mais uma linha...
